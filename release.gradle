@@ -2,7 +2,7 @@ apply plugin: 'com.github.dcendents.android-maven'
 apply plugin: 'com.jfrog.bintray'
 
 ext {
-    versionName = '1.0.0-preview1'
+    versionName = '1.0.0-preview1' 
 }
 group = 'com.badoo.chateau'
 version = versionName
